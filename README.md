@@ -1,3 +1,58 @@
+
+## Requirements
+
+Wireframe 
+
+A proper Readme.md file 
+
+Navigation Bar
+
+Home (Photo-Grid)
+
+User Profile (Maximum of 3 ppl.)
+
+Bookmarks (Saved Images)
+
+User is logged in or user is logged out
+
+Hint
+
+This is hard-coded user information inside of state
+
+User Profile
+
+Profile Image
+
+Username
+
+Grid Photos
+
+Use a node library (SASS/Bootstrap/etc.)
+
+
+
+# *Minimum of 80 GitHub commits*
+
+# **Pseudocode must be included for every part of your process/files**
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
