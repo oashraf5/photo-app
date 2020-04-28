@@ -1,4 +1,4 @@
-const Styles = styled.div`
+let Styles = styled.div`
   .navbar { background-color: white; }
  
   }
